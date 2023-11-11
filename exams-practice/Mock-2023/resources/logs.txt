@@ -1,0 +1,11 @@
+1. A RARE Prize ball (Blue) containing Panda was drawn.
+2. A NORMAL Prize ball (Pink) containing Dolphin was drawn.
+3. A NORMAL Prize ball (White) containing Rhino was drawn.
+4. A RARE Prize ball (Blue) containing Python was drawn.
+5. A NORMAL Prize ball (White) containing Monkey was drawn.
+6. A NORMAL Prize ball (Pink) containing Octopus was drawn.
+7. A NORMAL Prize ball (White) containing Ring-tailed Lemur was drawn.
+8. A RARE Prize ball (Blue) containing Panda was drawn.
+9. A NORMAL Prize ball (White) containing Monkey was drawn.
+10. A NORMAL Prize ball (Pink) containing Oyster was drawn.
+11. A NORMAL Prize ball (Pink) containing Dolphin was drawn.

@@ -1,0 +1,18 @@
+5
+Weapon card
+NORMAL
+Rusty Sword - 2 Energy
+1 Durability
+Unit card
+NORMAL
+Knight of the Legion - 4 Energy4 Attack - 5 Defence
+Unit card
+NORMAL
+Enraged Squirrel - 1 Energy2 Attack - 1 Defence
+Unit card
+NORMAL
+Mage Apprentice - 2 Energy3 Attack - 1 Defence
+Weapon card
+RARE
+Warhammer - 3 Energy
+2 Durability

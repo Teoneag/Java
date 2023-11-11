@@ -1,0 +1,19 @@
+CDS
+CD U2, Songs of Innocence, 2014
+SONG 1, Song for Someone, 3:47
+CD Coldplay, Parachutes, 2000
+SONG 1, Spies, 5:19
+CD artist, album, 2023
+SONG 1, name1, 1:2
+SONG 2, name2, 3:4
+ADDS
+ADD ING Bank, 0:20
+ADD Bol.com, 0:15
+ADD Albert Heijn, 0:30
+ADD Specsavers, 0:15
+ADD Kruidvat, 0:10
+ADD MediaMarkt.nl, 0:20
+ADD KPN, 0:30
+ADD TU Delft, 0:15
+ADD ABN Amro, 0:30
+ADD Rabobank, 0:15

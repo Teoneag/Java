@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_Rewriting_with_Lambdas/1_Rewriting_with_Lambdas.iml" filepath="$PROJECT_DIR$/1_Rewriting_with_Lambdas/1_Rewriting_with_Lambdas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_Streams/2_Streams.iml" filepath="$PROJECT_DIR$/2_Streams/2_Streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_Optionals/3_Optionals.iml" filepath="$PROJECT_DIR$/3_Optionals/3_Optionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_Threads/4_Threads.iml" filepath="$PROJECT_DIR$/4_Threads/4_Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_Synchronisation/5_Synchronisation.iml" filepath="$PROJECT_DIR$/5_Synchronisation/5_Synchronisation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Retired_Client_Server/Retired_Client_Server.iml" filepath="$PROJECT_DIR$/Retired_Client_Server/Retired_Client_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial_7.iml" filepath="$PROJECT_DIR$/tutorial_7.iml" />
+    </modules>
+  </component>
+</project>

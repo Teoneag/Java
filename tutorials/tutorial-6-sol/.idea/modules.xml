@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_Basic_Reader/1_Basic_Reader.iml" filepath="$PROJECT_DIR$/1_Basic_Reader/1_Basic_Reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_Basic_Writer/2_Basic_Writer.iml" filepath="$PROJECT_DIR$/2_Basic_Writer/2_Basic_Writer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_Complicated_Reader/3_Complicated_Reader.iml" filepath="$PROJECT_DIR$/3_Complicated_Reader/3_Complicated_Reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_Serializable/4_Serializable.iml" filepath="$PROJECT_DIR$/4_Serializable/4_Serializable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial_6.iml" filepath="$PROJECT_DIR$/tutorial_6.iml" />
+    </modules>
+  </component>
+</project>
